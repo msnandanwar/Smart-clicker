@@ -15,14 +15,14 @@ A modern, user-friendly desktop automation tool that performs automated mouse cl
 ## 🚀 Quick Start
 
 ### Option 1: Download Executable (Windows)
-1. Download `SmartClicker.exe` from the [Releases](https://github.com/yourusername/smart-clicker/releases) page
+1. Download `SmartClicker.exe` from the [Releases](https://github.com/msnandanwar/Smart-clicker/releases) page
 2. Run the executable - no installation needed!
 
 ### Option 2: Run from Source
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/smart-clicker.git
-cd smart-clicker
+git clone https://github.com/msnandanwar/Smart-clicker.git
+cd Smart-clicker
 
 # Create virtual environment
 python -m venv .venv
