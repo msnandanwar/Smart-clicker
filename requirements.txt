@@ -1,0 +1,5 @@
+# Requirements for a Python screen automation tool with a GUI and hotkeys
+# Uses pyautogui, pynput for listening to hotkeys, and tkinter for the interface
+pyautogui
+pynput
+pyinstaller
